@@ -29,9 +29,13 @@ cd ask-the-doc
 ### 2. Create a Virtual Environment
 ```bash
 python -m venv venv
+```
 # On Windows:
+```bash
 venv\Scripts\activate
+```
 # On macOS/Linux:
+```bash
 source venv/bin/activate
 ```
 

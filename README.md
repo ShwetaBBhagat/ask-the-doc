@@ -30,11 +30,11 @@ cd ask-the-doc
 ```bash
 python -m venv venv
 ```
-# On Windows:
+#### On Windows:
 ```bash
 venv\Scripts\activate
 ```
-# On macOS/Linux:
+#### On macOS/Linux:
 ```bash
 source venv/bin/activate
 ```
